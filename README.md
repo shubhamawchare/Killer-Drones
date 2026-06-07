@@ -162,7 +162,6 @@ Killer-Drones/
 
 **Shubham Awchare**  
 BCA — Game & Mobile Software Development  
-Tilak Maharashtra Vidyapeeth, Pune | 2019–2022  
 
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamawchare-181717?style=flat-square&logo=github)](https://github.com/shubhamawchare)
 
