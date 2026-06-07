@@ -15,7 +15,7 @@
 |----------|------------|
 | ![Screenshot](Screenshot%202022-06-19%20121504.png) | Drone lights turn red when hit |
 
-🎬 **[Watch Gameplay Video](Gameplay.mp4)**  
+🎬 **[Watch Gameplay Video](Gameplay.mkv)**  
 📄 **[Read Full Blackbook (PDF)](Killer%20Drones%20Blackbook.pdf)**
 
 ---
