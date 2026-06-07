@@ -22,7 +22,7 @@
 
 ## 📖 About
 
-**Killer Drones** is a BCA Final Year Project developed at **Tilak Maharashtra Vidyapeeth, Pune (2019–2022)**.
+**Killer Drones** is a BCA Final Year Project.
 
 The player takes the role of **Leon**, an elite operative sent to North Korea to stop the villainous Diamond Co-Op from weaponising a newly discovered element capable of creating a supermassive black hole. Armed with the best gear on the planet, the player must survive waves of increasingly aggressive killer drones to save humanity.
 
